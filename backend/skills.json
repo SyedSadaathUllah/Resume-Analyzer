@@ -1,0 +1,5 @@
+{
+  "frontend developer": ["html", "css", "javascript", "react", "tailwind", "git"],
+  "ai ml intern": ["python", "machine learning", "deep learning","numpy", "pandas", "tensorflow"],
+  "backend developer": ["java", "spring boot", "api", "mysql", "mongodb"]
+}
